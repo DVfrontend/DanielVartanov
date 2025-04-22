@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel 👋
 
-I'm a Frontend Developer focused on **React, TypeScript, HTML, SCSS, and Tailwind**. I've been learning and practicing programming for over 1.5 years, building clean, scalable, and user-friendly interfaces.
+I'm a Frontend Developer focused on **React, TypeScript, HTML, SCSS, and Tailwind**. I've been learning and practicing programming for over 2 years, building clean, scalable, and user-friendly interfaces.
 
 ## 🚀 Tech Stack
 
