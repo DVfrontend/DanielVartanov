@@ -20,7 +20,8 @@ I'm a Frontend Developer focused on **React, TypeScript, HTML, SCSS, and Tailwin
 Here are some of my recent or featured works (see pinned repos below):  
 - **Portfolio Website** – built with Next.js, Tailwind CSS, and Framer Motion  
 - **Cinema WEB** – using React, TypeScript, Redux, and custom hooks  
-- **Online Magazine** – API integration, responsive UI, and error handling  
+- **Online Magazine** – responsive UI, and error handling
+- **Weather Now** - API integration
 
 ## 🤝 Let's Connect
 
