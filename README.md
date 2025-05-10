@@ -27,7 +27,7 @@ Here are some of my recent or featured works (see pinned repos below):
 
 Feel free to reach out or connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/your-username/)  
+- [LinkedIn] not ready
 - [Telegram](https://t.me/TSXplorer)  
 - [Twitter/X](https://twitter.com/VartanovDaniel)  
 - Or just send a message here on GitHub!
