@@ -4,7 +4,7 @@ I'm a Frontend Developer focused on **React, TypeScript, HTML, SCSS, and Tailwin
 
 ## 🚀 Tech Stack
 
-- 💻 React, Next.js, Vite, TypeScript, JavaScript  
+- 💻 React, Next.js, Vite, TypeScript, JavaScript, Tanstack Query, Zustand
 - 🎨 CSS, Tailwind CSS, SASS (SCSS)  
 - 🧠 Git, GitHub, Figma, responsive design  
 - ⚙️ Component-based architecture, hooks, optimization & refactoring  
@@ -19,9 +19,9 @@ I'm a Frontend Developer focused on **React, TypeScript, HTML, SCSS, and Tailwin
 
 Here are some of my recent or featured works (see pinned repos below):  
 - **Portfolio Website** – built with Next.js, Tailwind CSS, and Framer Motion  
-- **Cinema WEB** – using React, TypeScript, Redux, and custom hooks  
-- **Online Magazine** – responsive UI, and error handling
-- **Weather Now** - API integration
+- **Filmaxis** – using React, TypeScript and Motion  
+- **Snaplet** – responsive UI, and error handling
+- **Forecast** - API integration
 
 ## 🤝 Let's Connect
 
